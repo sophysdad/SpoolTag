@@ -18,6 +18,10 @@ The tags required are [NTAG213](https://www.nxp.com/products/NTAG213_215_216) or
 
 The Canvas is programmed to read 45 pages (0 to 44) of the tag to verify filament data. Because this data spans a 144-byte range, you must use a tag that supports at least that many pages. Although Elegoo uses the NTAG213 as standard, the NTAG215 and NTAG216 work perfectly as well since they offer even more storage while maintaining the same page structure.
 
+## Download
+
+Get the latest APK from the [Releases](https://github.com/sophysdad/ELG-RFID/releases/latest) page.
+
 ## Building the App
 
 1. Install [Android Studio](https://developer.android.com/studio) with Android SDK 36
